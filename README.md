@@ -26,6 +26,8 @@
 
 - Uploaded screenshot of ContactCard component after researching setState, prevState, binding and seperating 'ContactInfo' into a separate component. The onClick now toggles the rendering of ContactInfo on and off with a fancy drop down and fade in effect.
 
+<img src=./state-success.JPG>
+
 2. Moving on to researching interview questions. -added answers for about a dozen questions, moving on to technical JS challenges at top of google doc - https://docs.google.com/document/d/1YkmR-_SIhd1LoZJUwU8iDSGl1a6M2ZniAtB6T9fKISo/edit?usp=sharing
 
 - Solved first challenge - Definitely a few ways to do this one, also the prompt said to return the string in reverse order, in an interview situation it would have been good to clarify whether they wanted the words in backwards order or the letters. 'hey how are you' = 'you are how hey' OR 'hey how are you' = 'ouy era woh yeh'
@@ -36,6 +38,6 @@
 
 <img src='./answer2.JPG'>
 
-- and the third
+- and the third - just noticed the unnecessary leftover 'cipher' array. whoops. - There's probably a much cleaner way to do this with the key value pairs thing we discussed the other day. I'll make note to look into that.
 
 <img src='./answer3.JPG'>
