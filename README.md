@@ -51,6 +51,6 @@ Slogging away through that study material helps solidify everything bit by bit.
 
 #### Where are you at now? What are your next steps? What do you still need to accomplish to feel confident and prepared to begin your eventual job search? ####
 
-I feel like I need to continue more or less on the same trajectory. I still need to look into the internship options and determine which ones I prefer over the others. It would definitely be worth it to look into local tech concerns in general and get a feel for what kind of work is going on here in Portland.
+* I feel like I need to continue more or less on the same trajectory. I still need to look into the internship options and determine which ones I prefer over the others. It would definitely be worth it to look into local tech concerns in general and get a feel for what kind of work is going on here in Portland.
 
 I should definitely attend some meet ups. Other than that I feel like I just need to keep growing my base of knowledge and get more comfortable with the technologies I've already been introduced to.
