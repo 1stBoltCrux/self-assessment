@@ -44,12 +44,12 @@
 
 ## Reflection and Next Steps ##
 
-####Do you feel like you made improvement today? Are you more confident and comfortable in one or more areas? Why or why not?####
+#### Do you feel like you made improvement today? Are you more confident and comfortable in one or more areas? Why or why not? ####
 
 * I felt like today was very productive. I feel better about dealing with state in react and I think learning that simple 'switch' method is going to be a huge help later on. I felt a lot more confident after going through those three JS challenges. Since the end of the JS module at Epicodus I've been concerned that I'd forgotten a lot of it but I think I've retained more than I thought.
 Slogging away through that study material helps solidify everything bit by bit.
 
-####Where are you at now? What are your next steps? What do you still need to accomplish to feel confident and prepared to begin your eventual job search?####
+#### Where are you at now? What are your next steps? What do you still need to accomplish to feel confident and prepared to begin your eventual job search? ####
 
 I feel like I need to continue more or less on the same trajectory. I still need to look into the internship options and determine which ones I prefer over the others. It would definitely be worth it to look into local tech concerns in general and get a feel for what kind of work is going on here in Portland.
 
