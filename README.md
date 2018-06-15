@@ -31,3 +31,7 @@
 - Solved first challenge - Definitely a few ways to do this one, also the prompt said to return the string in reverse order, in an interview situation it would have been good to clarify whether they wanted the words in backwards order or the letters. 'hey how are you' = 'you are how hey' OR 'hey how are you' = 'ouy era woh yeh'
 
 <img src='./answer1.JPG'>
+
+- Solved the second
+
+<img src='./answer2.JPG'>
