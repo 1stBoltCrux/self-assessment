@@ -20,7 +20,7 @@
 5. Continue focusing on React and solidifying my understanding of its function.
 
 
-#### Work ####
+## Work ##
 
 1. I started by finishing off a hide/show function in my profile page using a state toggle in React, courtesy of this tutorial https://reactjs.org/docs/handling-events.html --NOTE: I spent nearly an hour thinking I was screwing up the bind for my event handler, real problem was accidental capital 'L' in 'handleCLick'.
 
@@ -41,3 +41,16 @@
 - and the third - just noticed the unnecessary leftover 'cipher' array. whoops. - There's probably a much cleaner way to do this with the key value pairs thing we discussed the other day. I'll make note to look into that.
 
 <img src='./answer3.JPG'>
+
+## Reflection and Next Steps ##
+
+####Do you feel like you made improvement today? Are you more confident and comfortable in one or more areas? Why or why not?####
+
+* I felt like today was very productive. I feel better about dealing with state in react and I think learning that simple 'switch' method is going to be a huge help later on. I felt a lot more confident after going through those three JS challenges. Since the end of the JS module at Epicodus I've been concerned that I'd forgotten a lot of it but I think I've retained more than I thought.
+Slogging away through that study material helps solidify everything bit by bit.
+
+####Where are you at now? What are your next steps? What do you still need to accomplish to feel confident and prepared to begin your eventual job search?####
+
+I feel like I need to continue more or less on the same trajectory. I still need to look into the internship options and determine which ones I prefer over the others. It would definitely be worth it to look into local tech concerns in general and get a feel for what kind of work is going on here in Portland.
+
+I should definitely attend some meet ups. Other than that I feel like I just need to keep growing my base of knowledge and get more comfortable with the technologies I've already been introduced to.
