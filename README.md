@@ -25,3 +25,5 @@
 1. I started by finishing off a hide/show function in my profile page using a state toggle in React, courtesy of this tutorial https://reactjs.org/docs/handling-events.html --NOTE: I spent nearly an hour thinking I was screwing up the bind for my event handler, real problem was accidental capital 'L' in 'handleCLick'.
 
 - Uploaded screenshot of ContactCard component after researching setState, prevState, binding and seperating 'ContactInfo' into a separate component. The onClick now toggles the rendering of ContactInfo on and off with a fancy drop down and fade in effect.
+
+2. Moving on to researching interview questions. -added answers for about a dozen questions, moving on to technical JS challenges at top of google doc - https://docs.google.com/document/d/1YkmR-_SIhd1LoZJUwU8iDSGl1a6M2ZniAtB6T9fKISo/edit?usp=sharing
