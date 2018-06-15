@@ -35,3 +35,7 @@
 - Solved the second
 
 <img src='./answer2.JPG'>
+
+- and the third
+
+<img src='./answer3.JPG'>
